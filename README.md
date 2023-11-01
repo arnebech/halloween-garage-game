@@ -8,6 +8,7 @@ It simulates a garage door that can open, and when open there is a ghost you can
 ![picture of garage door up, with gameplay](docs/img/garage_open.jpeg)
 
 https://github.com/arnebech/halloween-garage-game/assets/303023/70a7cc0a-0465-437d-b262-90a5faaa6915
+
 https://github.com/arnebech/halloween-garage-game/assets/303023/4383c25a-121e-46be-a94a-f260393189a3
 
 ## Structure
