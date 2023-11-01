@@ -7,7 +7,7 @@ It simulates a garage door that can open, and when open there is a ghost you can
 ![picture of house with game on in garage door down mode](docs/img/garage-closed.jpeg)
 ![picture of garage door up, with gameplay](docs/img/garage_open.jpeg)
 
-docs/img/demo.mov
+https://github.com/arnebech/halloween-garage-game/assets/303023/70a7cc0a-0465-437d-b262-90a5faaa6915
 
 ## Structure
 
