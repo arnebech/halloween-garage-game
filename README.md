@@ -27,3 +27,9 @@ https://github.com/arnebech/halloween-garage-game/assets/303023/4383c25a-121e-46
 The only metric captured was button presses. 
 
 ![graph showing button presses over time](docs/img/btn-presses.jpg)
+
+### Oct 31, 2024
+
+The only metric captured was button presses. 
+
+![graph showing button presses over time](docs/img/btn-presses-2024.png)
